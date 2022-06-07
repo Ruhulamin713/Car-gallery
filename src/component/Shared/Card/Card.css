@@ -1,0 +1,6 @@
+.cardItem {
+  transition: transform 100ms;
+}
+.cardItem:hover {
+  transform: scale(1.025, 1.025);
+}

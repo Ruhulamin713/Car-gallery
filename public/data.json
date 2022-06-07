@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Audi S5 Sportback 2017 ",
+    "img": "https://i.ibb.co/0Fr0pW4/audi-s5-sportback-2017.jpg",
+    "price": 47000,
+    "quantity": 5,
+    "supplier": "NFS Association",
+    "displayCategory": "inventory",
+    "description": "2995cc turbo V6 petrol, 349bhp @ 5400-6450rpm, 369lb ft @ 1370-4500rpm"
+  },
+  {
+    "name": "BMW M5 2018 Performance",
+    "img": "https://i.ibb.co/yRQM7Hq/BMW-M5-2018-Performance.jpg",
+    "price": 104595,
+    "quantity": 10,
+    "supplier": "NFS Association",
+    "displayCategory": "",
+    "description": "4.4L twin-turbo DOHC 32-valve V-8/600 hp @ 6,600 rpm and 553 lb-ft @5,700 rpm"
+  },
+  {
+    "name": "BMW M3 2010 Performance",
+    "img": "https://i.ibb.co/DbKg0Hr/BMW-M3-2010-hd.jpg",
+    "price": 58400,
+    "quantity": 9,
+    "supplier": "NFS Association",
+    "displayCategory": "inventory",
+    "description": "Double overhead cam (dohc),V8, 414 hp @ 8,300 rpm,295 lb-ft @ 3,900 rpm"
+  },
+  {
+    "name": "BMW X6 M 2016 suv",
+    "img": "https://i.ibb.co/Drr15g5/BMW-X6-M-2016-suv.jpg",
+    "price": 103000,
+    "quantity": 8,
+    "supplier": "NFS Association",
+    "displayCategory": "",
+    "description": "4.4-liter twin-scroll, twin-turbo V8 rated at 567 horsepower and 553 foot-pounds of torque"
+  },
+  {
+    "name": "Chevrolet Corvette ZR1 Coupe 2019 Sportscar",
+    "img": "https://i.ibb.co/5nsRXS7/Chevrolet-Corvette-ZR1-Coupe-2019-Sportscar.jpg",
+    "price": 120900,
+    "quantity": 6,
+    "supplier": "NFS Association",
+    "displayCategory": "inventory",
+    "description": "6.2L V8 Gas,7-Speed Manual,Rear-Wheel Drive"
+  },
+  {
+    "name": "Dodge Challenger SRT8 2014 Muscle",
+    "img": "https://i.ibb.co/2Py59Q0/Dodge-Challenger-SRT8-2014-Muscle.jpg",
+    "price": 44685,
+    "quantity": 12,
+    "supplier": "NFS Association",
+    "displayCategory": "",
+    "description": "6.4L V8 Gas,6-Speed Manual,Rear-Wheel Drive"
+  },
+  {
+    "name": "Ferrari LaFerrari 2016 Hypercar",
+    "img": "https://i.ibb.co/HX7HJNG/Ferrari-La-Ferrari-2016-Hypercar.jpg",
+    "price": 1350000,
+    "quantity": 14,
+    "supplier": "NFS Association",
+    "displayCategory": "inventory",
+    "description": "949 hp,663 lb-ft,1/4 Mile: 9.7 Seconds @ 149 mph,Top Speed: 217 mph"
+  },
+  {
+    "name": "Ford Mustang GT 2015 Muscle ",
+    "img": "https://i.ibb.co/D8N4Csc/Ford-Mustang-GT-2015-Muscle.jpg",
+    "price": 41800,
+    "quantity": 11,
+    "supplier": "NFS Association",
+    "displayCategory": "",
+    "description": "5.0L V8 Gas,6-Speed Manual,Rear-Wheel Drive"
+  },
+  {
+    "name": "Jaguar F-Type R Coupe 2017 Sportscar",
+    "img": "https://i.ibb.co/JxCmnQJ/Jaguar-F-Type-R-Coupe-2017-Sportscar.jpg",
+    "price": 106000,
+    "quantity": 8,
+    "supplier": "NFS Association",
+    "displayCategory": "inventory",
+    "description": "5.0-liter supercharged V8,550 hp,502 lb-ft of torque"
+  },
+  {
+    "name": "lamborghini huracan performante 2018 supercar",
+    "img": "https://i.ibb.co/j4q9RxF/Lamborghini-Huracan-Performante-2018-Supercar.jpg",
+    "price": 274390,
+    "quantity": 9,
+    "supplier": "NFS Association",
+    "displayCategory": "",
+    "description": "5.2 DOHC 40-valve V-10/630 hp @ 8,000 rpm, 443 lb-ft @ 6,500 rpm,7-speed dual-clutch automatic"
+  },
+  {
+    "name": "McLaren 600LT 2018 Supercar",
+    "img": "https://i.ibb.co/1dZZkQJ/Mc-Laren-600-LT-2018-Supercar.jpg",
+    "price": 240000,
+    "quantity": 4,
+    "supplier": "NFS Association",
+    "displayCategory": "inventory",
+    "description": "3.8L Twin Turbo V8,7-Speed Dual-Clutch,Torque: 457 lb-ft,Top Speed: 204 mph"
+  },
+  {
+    "name": "Nissan GT-R Nismo 2017 Supercar",
+    "img": "https://i.ibb.co/zRRPXDB/Nissan-GT-R-Nismo-2017-Supercar.jpg",
+    "price": 174990,
+    "quantity": 7,
+    "supplier": "NFS Association",
+    "displayCategory": "",
+    "description": "3.8 lt,600 HP @ 6,800 RPM,481 LB-FT @ 3,600 - 5,600 RPM"
+  }
+]
